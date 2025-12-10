@@ -84,3 +84,16 @@
 
 
 # 4. **Greatest of Three**: Write a program that takes three numbers as input and prints the greatest one.
+
+a= int(input("Enter a Number"))
+b= int(input("Enter another Number"))
+c= int(input("Enter another Number"))
+ 
+if a>b and a>c :
+    print("A is greater than b and c",)
+elif b>a and b>c:
+    print("B is greater than a and c")
+elif c>a and c>b:
+    print("C is greater than a and b")
+else:
+    print("All are equal")
