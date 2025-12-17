@@ -4,4 +4,5 @@ try:
     x=7/0
 except Exception as e:
     print(e)
-    print("Exicuting")
+finally:
+    print("It will always execute")
