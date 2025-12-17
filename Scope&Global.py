@@ -1,0 +1,3 @@
+# Global variable
+x='Rahul'
+
