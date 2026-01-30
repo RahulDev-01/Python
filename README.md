@@ -1,4 +1,4 @@
-# Python Examples & Practice Code
+📁 # Python Examples & Practice Code
 
 Welcome to the **Python** repository by **RahulDev-01**!  
 This repository contains a collection of simple Python scripts and examples intended for learning and practice.
