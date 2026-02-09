@@ -3,7 +3,7 @@
 Welcome to the **Python** repository by **RahulDev-01**!  
 This repository contains a collection of simple Python scripts and examples intended for learning and practice.
 
-## 📂 About
+##  About
 
 This repo includes beginner-friendly Python files covering basic concepts like:
 
